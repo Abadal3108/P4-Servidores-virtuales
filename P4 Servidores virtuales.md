@@ -15,7 +15,7 @@ Para ello, tendrás que crear un archivo de configuración (copiado de 000-defau
 para cada uno de los dominios. Recuerda que con a2ensite puedes crear los enlaces
 simbólicos necesarios para añadir esta configuración a la ejecución de apache.
 
-para que nos funcione seguiremos los iguientes pasos:
+Para que nos funcione seguiremos lo siguientes pasos:
 
 ![image](https://user-images.githubusercontent.com/113515441/202519526-1184556f-fb82-43ac-8793-1ee457470176.png)
 ![image](https://user-images.githubusercontent.com/113515441/202519535-0cf4f060-81f8-4ddf-ba7f-4acf94b3b5d2.png)
